@@ -21,3 +21,4 @@ C:\Csharp_\ProjetoAula03\ProjetoAula03\obj\Debug\net8.0\refint\ProjetoAula03.dll
 C:\Csharp_\ProjetoAula03\ProjetoAula03\obj\Debug\net8.0\ProjetoAula03.pdb
 C:\Csharp_\ProjetoAula03\ProjetoAula03\obj\Debug\net8.0\ProjetoAula03.genruntimeconfig.cache
 C:\Csharp_\ProjetoAula03\ProjetoAula03\obj\Debug\net8.0\ref\ProjetoAula03.dll
+C:\Csharp_\ProjetoAula03\ProjetoAula03\obj\Debug\net8.0\ProjetoAula03.sourcelink.json
